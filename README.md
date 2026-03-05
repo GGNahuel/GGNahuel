@@ -27,7 +27,7 @@ Enlace a repositorios destacados. Explicando algo de cada uno
 Como el título indica soy desarrollador de software, poniendo foco en el desarrollo de soluciones backend especialmente con Java y Node.js. A su vez me gustaría mencionar que actualmente estoy cursando la carrera universitaria en Ingenieria de software en la [Universidad Tech](https://www.techtitute.com/).
 
 
-Tengo experiencia como desarrollador backend dentro de una empresa fintech, [SwaplyAr](https://www.swaplyar.com/), en donde me encargué de mejorar o adaptar la estructura, funcionamiento y mantenibilidad de módulos clave para el servicio que ellos ofrecen, así como de implementar desde cero nuevas funcionalidades y utilidades para su funcionamiento. También he trabajado como desarrollador independiente, desarrollando soluciones que se adaptaban a las necesidades de cada proyecto.
+Tengo experiencia como desarrollador backend dentro de una empresa fintech, [SwaplyAr](https://www.swaplyar.com/), en donde me encargué de mejorar o adaptar la estructura, funcionamiento y mantenibilidad de módulos clave para el servicio que ellos ofrecen, así como de implementar desde cero nuevas funcionalidades y utilidades para su funcionamiento. También trabajo como desarrollador independiente, desarrollando soluciones que se adapten a las necesidades de cada proyecto.
 
 ¡Dale un vistazo a mis redes! 😀. Podemos contactarnos por alguno de esos medios si lo prefieres.
 ## Enlaces y contacto
