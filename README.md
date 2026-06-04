@@ -52,4 +52,4 @@ JUnit | Mockito | Open API | Swagger | Postman
 ### Herramientas frontend
 HTML | CSS | React.js
 ### Herramientas de desarrollo
-Git | Github | Maven | Docker | Npm
+Git | Github | Maven | Docker | Firebase
